@@ -179,6 +179,62 @@
 
 ![preview](/images/git.39.PNG)
 
+**Step 7:**
+
+* I'm adding some data to the file
+
+![preview](/images/cat.PNG)
+
+* After adding i'm adding and commiting my changes
+
+![preview](/images/cat.1.PNG)
+
+* I'm copying my recent commit log
+
+![preview](/images/cat.2.PNG)
+
+* I'm reverting my changes 
+
+![preview](/images/cat.3.PNG)
+
+* After reverting if you check the data , the data is deleted
+
+![preview](/images/cat.4.PNG)
+
+**Step 8:**
+
+* Go the remote repo and search the profile which you need to fork
+
+![preview](/images/cat.5.PNG)
+
+* Select the repo which you need fork
+
+![preview](/images/cat.6.PNG)
+
+* There you can see an option called fork , select that
+
+![preview](/images/cat.7.PNG)
+
+* It will open an new page there you can edit repo name 
+
+![preview](/images/cat.8.PNG)
+
+* If you scroll down there you can get create fork select that option
+
+![preview](/images/cat.9.PNG)
+
+* After that i take few seconds to load
+
+![preview](/images/cat.10.PNG)
+
+* Here the repo is forked to your github
+
+![preview](/images/cat.11.PNG)
+
+
+
+
+
 
 
 
